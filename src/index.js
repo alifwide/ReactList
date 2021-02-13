@@ -4,8 +4,6 @@ import {BrowserRouter, Switch, Route, Link} from 'react-router-dom'
 import $ from "jquery"
 
 
-
-
 class List extends React.Component {
 	constructor(props) {
 		super(props);
